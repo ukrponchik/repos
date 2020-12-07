@@ -1,0 +1,7 @@
+/home/anhuk/repos/cpp/labs/matrix/build/CMakeFiles/install/strip.dir
+/home/anhuk/repos/cpp/labs/matrix/build/CMakeFiles/install/local.dir
+/home/anhuk/repos/cpp/labs/matrix/build/CMakeFiles/install.dir
+/home/anhuk/repos/cpp/labs/matrix/build/CMakeFiles/list_install_components.dir
+/home/anhuk/repos/cpp/labs/matrix/build/CMakeFiles/rebuild_cache.dir
+/home/anhuk/repos/cpp/labs/matrix/build/CMakeFiles/edit_cache.dir
+/home/anhuk/repos/cpp/labs/matrix/build/CMakeFiles/BoolMatrix.dir

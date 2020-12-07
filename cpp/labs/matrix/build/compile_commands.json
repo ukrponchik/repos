@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/anhuk/repos/cpp/labs/matrix/build",
+  "command": "/usr/bin/g++ -I../include -g -o CMakeFiles/BoolMatrix.dir/src/main.cpp.o -c /home/anhuk/repos/cpp/labs/matrix/src/main.cpp",
+  "file": "/home/anhuk/repos/cpp/labs/matrix/src/main.cpp"
+}
+]
